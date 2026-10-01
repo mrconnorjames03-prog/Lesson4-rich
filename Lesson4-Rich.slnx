@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="Lesson4-Rich/Lesson4-Rich.csproj" />
 </Solution>
